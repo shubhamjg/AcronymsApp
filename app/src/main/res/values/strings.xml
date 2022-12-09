@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acronyms App</string>
+    <string name="hint">Search Acronym Here</string>
+    <string name="no_results">No Results</string>
+    <string name="no_error"></string>
+    <string name="network_failure">Network Failure</string>
+    <string name="type_more">Please Type At Least 2 Characters</string>
+</resources>
